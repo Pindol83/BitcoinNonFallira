@@ -1,0 +1,314 @@
+---
+title: "Every Reason Bitcoin Will Not Fail"
+date: 2020-12-04T15:34:30-04:00
+classes: wide
+image: "/assets/images/failure.jpg"
+excerpt: "I have collected all the arguments against Bitcoin along with rebuttals."
+---
+![failure](/assets/images/failure.jpg)
+{: .image-title}
+
+Over the years we've heard many reasons why Bitcoin will fail.  Bitcoin has been [declared dead 396 times](https://99bitcoins.com/bitcoin-obituaries/) yet it continues to grow in market cap, hashpower, and network size.  More engineers, investors, and advocates join its ranks everyday.
+
+Yet each wave of adoption brings people who argue why Bitcoin will fail.  To address all doubts, including my own, I have created this list of every single argument against Bitcoin.
+
+#### Bitcoin transactions will be stopped or censored
+- [Governments will stop Bitcoin](#governments-will-stop)
+- [Exchanges can be shutdown by governments](#exchanges-can-be-shutdown)
+- [Bitcoin can’t scale, transactions are too slow or expensive](#cant-scale-transactions-are)
+- [Downed internet because of governments or natural disasters will stop Bitcoin](#shut-off-internet-because)
+- [Miners are centralized in China and will be forced to censor or stop all transactions](#miners-are-centralized-and)
+- [Block rewards will stop in the future and Bitcoin will lose all security](#block-rewards-will-stop)
+- [Banning nodes will stop Bitcoin](#banning-nodes-will-stop)
+- [A miner death spiral where less hashrate leads to price drops in a spiral to zero](#a-miner-death-spiral)
+- [Outspending the miners would allow someone to censor or stop transactions](#outspending-the-miners-would)
+- [Miners losing access to energy will stop transactions](#shutting-off-energy)
+
+#### Bitcoin will be stolen or confiscated
+- [Governments will ban ownership or confiscate all Bitcoin.](#governments-will-ban-ownership)
+- [Quantum computing will break the security](#quantum-computing-will-break)
+- [Bitcoin is too complicated to self-custody and will be stolen from custodians.](#is-too-complicated-for)
+- [Bitcoin cannot be insured, unlike bank deposits](#cannot-be-insured-unlike)
+- [A bug in Bitcoin could allow hackers to steal or disrupt the network.](#a-bug-in-could)
+
+#### Bitcoin cannot store value in the long run
+- [Bitcoin has no intrinsic value (unlike say gold)](#has-no-intrinsic-value)
+- [Bitcoin’s price is too high, it's too expensive](#price-is-too-high)
+- [Bitcoin is too volatile to be in an investment portfolio or be a store-of-value](#is-too-volatile-to)
+- [Bitcoin is manipulated by fraudulent whale and Tether trading](#is-manipulated-by-fraudulent)
+- [Bitcoin is a ponzi or pyramid scheme](#is-a-ponzi-or)
+- [Bitcoin is a bubble like tulip mania](#is-a-bubble-like)
+- [Guns and taxes back fiat currencies, Bitcoin is backed by nothing](#guns-and-taxes-back)
+- [Scarcity can be changed by the developers unlike other assets](#scarcity-can-be-changed)
+- [Bitcoin can be forked infinitely which dilutes the value](#can-be-forked-infinitely)
+- [Bitcoin has no yield, it’s not an investment, therefore it has no value](#has-no-yield-its)
+- [Central bank or corporate currencies will outcompete Bitcoin](#central-bank-digital-currencies)
+- [Newer decentralized cryptocurrencies will outcompete Bitcoin](#newer-decentralized-cryptocurrencies-will)
+
+### Strawman arguments
+- [Surveillance and regulation from KYC/AML will render Bitcoin useless](#surveillance-regulation-kyc)
+- [Bitcoin evades taxes](#evades-taxes)
+- [Fiat currencies cannot collapse so we have no need for Bitcoin](#fiat-currencies-cannot-collapse)
+- [Bitcoin is unfairly distributed and rewards people for doing nothing](#is-unfairly-distributed-and)
+- [Disinflationary money breaks the economy so we cannot adopt Bitcoin](#disinflationary-money-breaks-the)
+- [There's no merchant adoptance of Bitcoin so it is doomed](#theres-no-merchant-adoptance)
+- [Bitcoin is subjective, imaginary, a mass delusion](#is-subjective-imaginary-a)
+- [Bitcoin is a cult, the people who believe in it are ideologues and maximalists](#is-a-cult-the)
+- [Bitcoin uses too much energy, it’s bad for the environment](#uses-too-much-energy)
+- [Bitcoin is not programmable, as useful, or functional as other cryptocurrencies](#is-not-programmable-as)
+- [Terrorists and drug dealers use Bitcoin](#terrorists-and-drug-dealers)
+
+### Useful links for further reading
+- [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
+- [Gradually, Then Suddenly](https://nakamotoinstitute.org/mempool/series/gradually-then-suddenly/)
+- [Dan Held's Newsletter](https://danheld.substack.com/people/6127327-dan-held)
+
+.   .   .
+{: style="color:gray; font-size: 150%; text-align: center;"}
+
+#### Governments will stop Bitcoin
+{: #governments-will-stop }
+- Which governments?  Your mileage will vary depending on whether you live in [North Korea, China, or Switzerland](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory).  All countries have borders that can be crossed by people.  Bitcoin crosses borders as easily as any information can.
+- Bitcoin is a global software network that cannot be stopped anymore than we could stop all ants from existing around the globe.  Even governments are limited in their effective power.
+- [Pensions](https://www.coindesk.com/pension-funds-double-crypto-asset-exposure-in-morgan-creeks-fund-to-1), [endowments](https://www.thecrimson.com/article/2019/4/12/hmc-crypto-investment/), [insurance companies](https://www.bloomberg.com/news/articles/2020-12-10/169-year-old-insurer-massmutual-invests-100-million-in-bitcoin) and corporations own Bitcoin.  Governments that have allowed these institutions to own Bitcoin will not be able to make it illegal without impoverishing their voter base.  Companies that built on top of Bitcoin, including [large financial insitutions](https://www.fidelitydigitalassets.com/overview) would be crippled.
+- Governments are constrained by their citizens and laws.  Since [politicians](https://fortune.com/2020/11/04/wyoming-bitcoin-cynthia-lummis-u-s-senate/), [corporations](https://news.bitcoin.com/nasdaq-microstrategy-bitcoin-425-million/), and [citizens](https://www.bitcoinmarketjournal.com/how-many-people-use-bitcoin/) already own Bitcoin, some in “the government” or capable of lobbying the government already have a vested interest in Bitcoin.
+- Countries compete with each other, they won't all work together to stop Bitcoin.  Governments want to attract investment and technology so they will create competitive laws to attract Bitcoin.  Rival countries need neutral reserve assets like gold or Bitcoin since they cannot trust the currency of their rival.
+- *See also:* [Governments will ban ownership or confiscate all Bitcoin](#governments-will-ban-ownership)
+- *See also:* [Exchanges can be shutdown by governments](#exchanges-can-be-shutdown)
+- *See also:* [Banning nodes will stop Bitcoin](#banning-nodes-will-stop)
+- *See also:* [Downed internet because of governments or natural disasters will stop Bitcoin](#shut-off-internet-because)
+- *See also:* [All the Bitcoin can be stolen from custodians](#is-too-complicated-for)
+- *See also:* [Central bank digital currencies or corporate currencies will outcompete Bitcoin](#central-bank-digital-currencies)
+- *See also:* [Surveillance and regulation from KYC/AML will render Bitcoin useless](#surveillance-regulation-kyc)
+
+#### Exchanges can be shutdown by governments
+{: #exchanges-can-be-shutdown }
+- In most countries Bitcoin exchanges operate legally and governments prefer that to black markets.
+- Peer-to-peer exchanges cannot be stopped.  Every country that has [shutdown exchanges have seen the emergence of peer-to-peer exchanges](https://news.bitcoin.com/binance-launches-p2p-trading-in-china-with-support-for-alipay-and-wechat/) that can leverage any existing payment networks.
+- Transactions are unstoppable and undetectable.  Bitcoin transactions can be hidden in text messages, [emjoi](https://twitter.com/aantonop/status/1088556402115784704), images, and sent from anywhere on the internet.
+- Governments never could completely stop goods that most people wanted.  Black markets formed in cannabis and alcohol, and Bitcoin is far easier to move and harder to detect than those.
+- *See also:* [Governments will stop Bitcoin](#governments-will-stop)
+
+#### Banning nodes will stop Bitcoin
+{: #banning-nodes-will-stop }
+- Nodes cannot be stopped in every country.  So long as a node is running somewhere in the world Bitcoin can continue to validate transactions.
+- Nodes can be run invisibly behind the Tor network which is legal in most countries.
+- Distributing node software is freedom of speech.  Governments with [freedom of speech laws have set precedents](https://www.pbs.org/wgbh/nova/article/is-code-free-speech/) to allow sharing of open-source software such as Bitcoin.
+
+#### Downed internet because of governments or natural disasters will stop Bitcoin
+{: #shut-off-internet-because }
+- People will work immediately to bring the internet back.  If the internet stops working entirely so do modern economies and governments.
+- Bitcoin can function even with 1% of the current nodes.  Internet shutdowns, solar flares, or other disasters might disrupt a large part of the internet but Bitcoin would be secured by the part of the internet that continues to function.
+{: #split-internet-communication-will }
+- The internet is adaptive--Bitcoin [satellites](https://blog.bitmex.com/bitcoin-satellite/), [mesh networks](https://txtenna.com/), and [radio transmitters](https://www.coindesk.com/bitcoin-coders-send-international-lightning-payment-over-ham-radio) can continue to transmit Bitcoin blocks and transactions between countries if cellular or fiber internet goes down
+- Slow or broken communication between countries can be worked around.  Delays in communication between chains means more blocks are required for final settlement, but does not stop Bitcoin.  If the chain split is permanent each chain can fork to disallow being rewritten.
+
+#### Bitcoin can’t scale, transactions are too slow or expensive
+{: #cant-scale-transactions-are }
+- Scaling can happen infinitely on second layers.  Layers such as [Lightning](https://lightning.network/), [Liquid](https://blockstream.com/liquid/), or even apps like [Square Cash](https://cash.app/help/us/en-us/1016-bitcoin) can scale to support any number of transactions, offering different cost vs. security trade-offs.
+- Bitcoin can settle the largest value, in the fastest time, for the cheapest cost of any network.  No other payment network can settle [irreversible multi-billion-dollar transactions](https://cointelegraph.com/news/whale-alert-crypto-user-moves-1-1b-in-bitcoin) for cents within an hour.
+
+#### Outspending the miners would allow someone to censor or stop transactions
+{: #outspending-the-miners-would }
+- Acquiring enough ASICs is nearly impossible.  Launching a 51% attack requires not just energy but access to many ASICs that would be hard to secretly acquire without detection by producers in the supply chain.
+- No Bitcoin can be stolen, so no one would spend hundreds of billions of dollars simply to censor Bitcoin transactions.
+- The network can fork onto a new mining algorithm making all the attacker’s ASICs useless.
+
+#### Miners losing access to energy will stop transactions
+{: #shutting-off-energy }
+- Miners are globally distributed and use various types of energy.  They can use energy simply by plugging into the power grid or by working directly with energy suppliers.  There is no entity that can find and stop them all.
+- No one except Bitcoin miners can attack Bitcoin with hashpower.  Even if a large number of miners can no longer use energy and hashpower drops, Bitcoin will continue to function.  However, users may want to wait longer for block confirmations in case hashpower comes back online.
+- Worst case, Bitcoin could fork to use a low-energy mining algorithm.  Bitcoins would still be secure on both chains.
+
+#### Miners are centralized in China and will be forced to censor or stop all transactions
+{: #miners-are-centralized-and }
+- Miners can switch easily between pools.  Protocols such as [Stratum V2](https://braiins.com/stratum-v2) allow miners to create blocks themselves.
+- Miners are too distributed to be all coerced into censorship.  [They are becoming more distributed](https://bitcoinmagazine.com/articles/the-sun-never-sets-on-bitcoin-mining-decentralization-continues-as-china-flounders) as they chase global low-cost energy sources, often in remote areas where they may bring in significant tax revenue.
+- Miners are heavily invested in Bitcoin themselves so they have incentive to keep the integrity of the network.
+- Worst case, the network can fork onto a new mining algorithm making all the attacker’s ASICs useless.
+
+#### A miner death spiral where less hashrate leads to price drops in a spiral to zero
+{: #a-miner-death-spiral }
+- The price of Bitcoin is not dependent only on hashrate, even if hashrate depends on price.
+- Hashrate trends upwards regardless of price as chips improve and miners find cheaper energy
+- If hashrate does fall, users simply need to wait longer before trusting transactions as confirmed.
+
+#### Block rewards will stop in the future and Bitcoin will lose all security
+{: #block-rewards-will-stop }
+- [Bitcoin transaction fees have been steadily increasing](https://medium.com/@danhedl/bitcoins-security-is-fine-93391d9b61a8) with Bitcoin’s price.
+- Block space is fixed supply.  As more people demand to own Bitcoin on the base layer, but the block size stays constant the transaction fees will rise.
+- Block rewards drop every 4 years until 2140 giving the network plenty of time to adapt to observed changes.
+- *See also:* [Miners losing access to energy](#shutting-off-energy)
+
+#### Governments will ban ownership or confiscate all Bitcoin.
+{: #governments-will-ban-ownership }
+- Governments with property rights laws are mostly treating Bitcoin like other assets.  They are incentivized to tax it, not to make it flee across the border.
+- Bitcoin cannot be confiscated without permission.  Bitcoin is pure information that can be stored in your head, spread between people, or moved instantly across the internet.  It can be provably transferred out of your control prior to capture.
+- Real estate, stocks, and bonds are far easier and bigger honeypots to confiscate.  There is nothing else to own more secure than Bitcoin.
+- The confiscation of Bitcoin will be rolled out slowly country by country allowing people to adapt.  The confiscation of gold only occurred in the US.  Gold prices went up in other countries where you could own it.
+- *See also:* [Governments will stop Bitcoin](#governments-will-stop)
+
+#### Bitcoin cannot be insured, unlike bank deposits
+{: #cannot-be-insured-unlike }
+- There are many Bitcoin custodians that use insurance to cover deposits.
+- In a large banking crisis governments will have to step in to print money to back deposits which can devalue the currency.
+
+#### Bitcoin is too complicated for most people to self-custody, so all the Bitcoin can be stolen from custodians.
+{: #is-too-complicated-for }
+- Bitcoin UX is improving exponentially following demand, just like the early internet which went from the realm of techies to the ordinary person.
+- Most Bitcoin is already self-custodied.  Attacks will be choreographed in advanced and those who see it coming or see it in other countries can move to self-custody before it happens.
+- Custodians can federate or distribute themselves across jurisdictions making confiscation impossible before coins begin to move.
+- *See also:* [Governments will ban ownership or confiscate all Bitcoin](#governments-will-ban-ownership)
+
+#### Quantum computing will break the security
+{: #quantum-computing-will-break }
+- Quantum computing might never break current encryption.  Although quantum algorithms can break ECDSA in theory, in practice it may be [impossible to reduce the noise of a quantum computer](https://www.sciencemag.org/news/2020/07/biggest-flipping-challenge-quantum-computing) to have enough qubits to perform the algorithm.  Small environmental noise like cosmic radiation may interfere with qubits so a much larger number of physical qubits with error correction are required to represent a single qubit.
+- Adding quantum-resistant addresses to Bitcoin can be achieved through a soft-fork.  Work on quantum-proof cryptography is advancing much faster than quantum computers themselves, as mathematics is far easier for researchers to perform than experimental physics.
+- Even if there is surprise advancement in quantum computers, quantum computers cannot break SHA256 cryptography that Bitcoin uses for mining and protects addresses that haven’t revealed their public key.  A soft fork can create a safe upgrade path to quantum resistant addresses by allowing [private key owners to sign commitments into the blockchain without revealing their public key](https://royalsocietypublishing.org/doi/10.1098/rsos.180410).
+- There are only [4 million out of 21 million coins in unsafe addresses](https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/quantum-computers-and-the-bitcoin-blockchain.html).  Such coins could be a reward for a quantum computer or be soft-forked out of consensus.
+- The first quantum computers will be owned by large corporations or governments.  It is unlikely such entities will reveal quantum supremacy by attacking Bitcoin first vs. other more useful endeavors. Even if they steal coins, it is in the attackers self-interest to do so slowly and secretly for maximum profit rather than risk crashing the Bitcoin price.
+
+#### A bug in Bitcoin could allow hackers to steal or disrupt the network.
+{: #a-bug-in-could }
+- A bug would have already been discovered, since Bitcoin is the largest honeypot in the world constantly under attack for a decade.
+- Although disruptive, Bitcoin can always fork to fix critical bugs.
+
+#### Scarcity can be changed by the developers unlike other assets
+{: #scarcity-can-be-changed }
+- Scarcity is more easily changed for other assets such as currencies and equity which can be issued, or commodities like gemstones or gold which can be mined.
+- No one in the Bitcoin network has an incentive to devalue their savings by increasing the supply.
+- Changing Bitcoin’s supply cap requires a hard fork, creating two chains in which users will own Bitcoin on both, so they lose no value.  From there the market will decide on whether the inflated or original Bitcoin is more valuable.
+
+#### Bitcoin’s price is too high, it's too expensive
+{: #price-is-too-high }
+- Bitcoin's market cap is still very small compared to gold and is much better in function.  You can buy a fraction of a Bitcoin.
+- Bitcoin can absorb savings demand from art, real estate, and other valuables.
+- Over time, the supply of Bitcoin is programmatically halved.  After each [halving the price increases](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25), because of supply-and-demand fundamentals.
+- As Bitcoin becomes easier to use and more liquid, new individuals and fund managers can switch to it as a store-of-value.  The adoption curve of any network such as Bitcoin tends to be exponential.
+
+#### Bitcoin can be forked infinitely which dilutes the value
+{: #can-be-forked-infinitely }
+- A fork does not dilute the value of a user holding Bitcoin because they get Bitcoin on both forks.
+- Bitcoin forks are a feature not a bug of money.  Forks allow for an evolutionary experiment in which the market chooses the better money.  In fiat currencies a governance “fork” results in a war in which the losing side loses all their money.
+- After all the Bitcoin forks in 2017 the market gravitates towards a single protocol as store-of-value, namely the original Bitcoin core
+
+#### Bitcoin has no intrinsic value (unlike say gold)
+{: #has-no-intrinsic-value }
+- What does “intrinsic value” mean?
+- Bitcoin has billions in mining infrastructure and millions of hours of software development and writing dedicated to it.
+- Bitcoin has no industrial use, but neither does emeralds, collectible coins, digital game tokens or Picassos, but they all have value.  Gold’s industrial use is tiny compared to its monetary use stored as bars or coins in vaults around the world.
+
+#### Bitcoin is a ponzi or pyramid scheme
+{: #is-a-ponzi-or }
+- Ponzi schemes are based on promises of income that require more and more entrants.  [Bitcoin cannot be a ponzi scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/) because there is no income, just like diamonds or gold cannot be a ponzi scheme.
+- Perhaps you mean: [Bitcoin is a bubble?](#is-a-bubble-like)
+
+#### Bitcoin is a bubble like tulip mania
+{: #is-a-bubble-like }
+- Bubbles can occur in all assets including fiat currencies, commodities, real estate and equities.  Bitcoin continually makes new highs after each bubble bursts.
+- What makes Bitcoin different from tulips are its monetary properties--divisibility, scarcity, fungibility, portability, durability--which makes it a good savings vehicle, more similar to gold than to tulips.
+
+#### Bitcoin has no yield, it’s not an investment, therefore it has no value
+{: #has-no-yield-its }
+- How do commodities like gemstones, art, and gold have value?  Value is decided by market supply and demand, not by yield.
+- Bitcoin is a speculative savings vehicle, not an investment in productive capital.
+
+#### Bitcoin is too volatile to be in an investment portfolio or be a store-of-value
+{: #is-too-volatile-to }
+- For investors with a long time-horizon [volatility is not an issue](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/) if Bitcoin doubles in price every year on average.
+- A small cost-averaged allocation to Bitcoin would have resulted in large gains in the volatility-adjusted performance of any portfolio.
+- As the Bitcoin market cap grows, Bitcoin is becoming less volatile as more liquidity is required to move the price
+
+#### Bitcoin is manipulated by fraudulent whale and Tether trading
+{: #is-manipulated-by-fraudulent }
+- All markets including commodities, currencies, and equities are manipulated by traders for profit, particularly if they have a small market cap.
+- Since Bitcoin can be easily self-custodied compared to other assets, it is more difficult to manipulate or rehypothecate compared to similarly-sized assets.
+- Tether is only a small part of the on-ramps that allow users to buy Bitcoin.  Bitcoin does not require Tether printing anymore than it requires central bank printing in order to function.
+
+#### Central bank digital currencies or corporate currencies will outcompete Bitcoin
+{: #central-bank-digital-currencies }
+- Bitcoin is scarce, uncensorable, unconfiscatible and can be self-custodied.  Centrally-issued currencies are none of these and do not compete in the store-of-value niche Bitcoin and other assets fill.
+- A move to central bank digital currency does not change fiat currency's monetary properties.  It is a move towards centralized surveillance and elimination of physical cash for citizens.
+- Bitcoin allows for final settlement between rivals, making it more like a commodity than a fiat digital currency.  Therefore it serves better as a reserve asset for nation-states than fiat currencies.
+- *See also:* [Governments will stop Bitcoin](#governments-will-stop)
+
+#### Newer decentralized cryptocurrencies will outcompete Bitcoin
+{: #newer-decentralized-cryptocurrencies-will }
+- Bitcoin has the most security, scarcity, and liquidity making it [impossible to be displaced by another cryptocurrency for the store-of-value niche](https://nakamotoinstitute.org/mempool/bitcoin-cant-be-copied/).  Centralized cryptos are easier to inflate, censor, or confiscate.
+- Many cryptos are used for speculative trading, not for store-of-value or their presumed utility.
+- Most other currencies [have lost significant value](https://cryptorank.io/ath) compared to Bitcoin over time.
+
+#### Surveillance and regulation from KYC/AML will render Bitcoin useless
+{: #surveillance-regulation-kyc }
+- Regulations affect some users in some countries, but have no effect on the Bitcoin network itself.  Address and transaction creation are still uncensorable on the network. No one knows who owns newly minted coins and old coins.
+- Some governments will start to focus on attracting Bitcoin rather than scaring it away.  Throughout history, [jurisdictions that want to capture financial innovation](https://en.wikipedia.org/wiki/Offshore_financial_centre) arise that offer more privacy and freedom.  
+- Surveillance cannot extend onto [second layers](https://www.coindesk.com/bitcoin-lightning-privacy-point-timelock-contracts-ptlcs), [coin obfuscation methods](https://www.coindesk.com/btcpay-looks-to-anonymize-bitcoin-transactions-with-payjoin-integration), peer-to-peer exchanges, or across jurisdictions that do not share information.
+- If enough citizens around the world demand some financial privacy or choose civil disobedience en masse then regulations are unenforceable. [Black markets flourish](https://www.reuters.com/article/us-northkorea-change-insight/north-koreas-black-market-becoming-the-new-normal-idUSKCN0SN00320151029) under even the most oppressive regimes such as North Korea.
+- *See also:* [Governments will stop Bitcoin](#governments-will-stop)
+- *See also:* [Governments will ban ownership or confiscate all Bitcoin](#governments-will-ban-ownership)
+
+#### Bitcoin evades taxes
+{: #evades-taxes }
+- Most countries treat Bitcoin as property and apply capital gains taxes just like other assets.
+- Governments regulate exchanges to collect taxes.  Gold, art, and cash are easier to use to evade taxes than a public blockchain.
+- Governments can tax sales, property, and income.  Not to mention print unlimited amounts of currency.  Bitcoin is tiny compared to those sources of revenue.
+
+#### Fiat currencies cannot collapse so we have no need for Bitcoin
+{: #fiat-currencies-cannot-collapse }
+- Bitcoin can serve as a life-raft in hyperinflation, but its success as a store-of-value doesn’t depend on the collapse of fiat currencies.
+- The collapse of fiat currencies are caused by large unpayable debts because of imprudent fiscal and monetary policies, not by speculation in commodities like Bitcoin.
+
+#### Guns and taxes back fiat currencies, Bitcoin is backed by nothing
+{: #guns-and-taxes-back }
+- Many countries have experienced hyperinflation or large devaluations of their currencies despite every one of them having guns and taxes.
+- Gold and gemstones have held value for thousands of years despite being “backed by nothing.”  Gold is a reserve asset of most central banks, Bitcoin could serve a similar function as a neutral reserve asset.
+- [Bitcoin is backed by its monetary properties](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/) enforced by a massive computer network and army of developers and advocates.
+- Militaristic empires can drive demand for a currency in the form of tribute payments and taxes, but in modern liberal economies trade and monetary policy are the main drivers of currency value.
+
+#### Bitcoin is unfairly distributed and rewards people for doing nothing
+{: #is-unfairly-distributed-and }
+- Bitcoin is the most fairly distributed asset in the world.  Many things such as land and fiat money are unfairly distributed using violence, but anyone can mine or earn Bitcoin.  
+- Bitcoin is one of the first assets the average person could buy before large institutional investors.
+- Early risk-takers and contributors are rewarded in Bitcoin just like any enterprise.
+- Bitcoin earns no rents, so over time big Bitcoin holders who provide nothing of value to others will be forced to sell Bitcoin for living expenses.
+
+#### Disinflationary money breaks the economy so we cannot adopt Bitcoin
+{: #disinflationary-money-breaks-the }
+- Most debts are currently denominated in fiat currencies, adopting Bitcoin as a reserve asset has no effect on that.
+- [Debt deflation crises](https://www.linkedin.com/pulse/why-do-debt-crises-come-cycles-ray-dalio/) are caused by the build-up of huge interdependent debts within a centralized banking system.
+- Inflation is just another way to default on the debt, but [transfers wealth from savers and fixed-income pensioners to the rich who own real estate and other scarce assets](https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/).
+- Hard money standards as occurred under the gold standard are stable if there are small periodic debt restructurings to avoid large debt build-ups.  Bitcoin’s auditability and self-custody properties make it superior to gold in preventing debt build-ups.
+
+#### There's no merchant adoptance of Bitcoin so it is doomed
+{: #theres-no-merchant-adoptance }
+- Bitcoin is [evolving from collectible](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-part-3-of-4-2e2c002593f1), to store-of-value, to medium-of-exchange, and then unit-of-account, at which point merchants will adopt it.
+- People would rather spend deprecating fiat money than appreciating money ([Gresham’s law](https://en.wikipedia.org/wiki/Gresham%27s_law).)
+- Merchants will adopt Bitcoin once they no longer want to accept their local currencies ([Thiers' Law](https://medium.com/@jdh/bad-money-da6bc05a5d9)) as happened with [Venezuela and the US dollar](http://globalcomment.com/the-venezuelan-economy-between-the-dollar-and-the-bolivar/).
+- [More merchants have been accepting Bitcoin over time](https://coinmap.org/view/#/world/-8.58102122/-58.00781250/2), particularly as new payment methods such as [Lightning](https://lightning.network/) and [Strike](https://strike.zaphq.io/) have made it easier to spend Bitcoin.  This trend simply needs to continue.
+
+#### Bitcoin is subjective, imaginary, a mass delusion
+{: #is-subjective-imaginary-a }
+- All prices for goods in a market including gemstones, Picassos, and fiat money are determined by market participants, Bitcoin is no different.
+- Bitcoin is a real computer network consisting of billions of dollars of infrastructure and millions of hours of contributions from engineers, cryptographers, and thinkers from around the world
+
+#### Bitcoin is a cult, the people who believe in it are ideologues and maximalists
+{: #is-a-cult-the }
+- All large-scale human endeavors including companies and governments have ideological contributors.
+- Bitcoin proponents span a wide gamut from human right activists, Austrian economists, crypto-anarchists, technologists, futurists, and those just looking for speculative gains--it is hardly a dogmatic religion
+
+#### Bitcoin uses too much energy, it’s bad for the environment
+{: #uses-too-much-energy }
+- Televisions, aircraft carriers, and plastic junk all require energy to produce, how much energy is too much for producing those?
+- Bitcoin mostly uses energy that would otherwise be wasted or nearly free such as overproduced hydroelectric because of the competition between miners
+- Bitcoin has negative carbon emissions as well.  Bitcoin makes [capturing gas flaring](https://decrypt.co/41618/there-will-be-bitcoin-oil-gas-cash-cow-our-feet) profitable which incentivizes producers to reduce carbon emissions.  Low-carbon energy projects like hydroelectric, nuclear, or renewables can be made profitable by putting excess supply into Bitcoin mining.
+
+#### Bitcoin is not programmable, as useful, or functional as other cryptocurrencies
+{: #is-not-programmable-as }
+- Bitcoin is designed to be the highest security monetary network, supporting general programming opens up possible security issues such as the ability for nodes to be decentralized
+- Second layers or improvements to the Bitcoin protocol can provide programmability such as RSK, discrete log contracts, and Lightning
+
+#### Terrorists and drug dealers use Bitcoin
+{: #terrorists-and-drug-dealers }
+- The vast majority of Bitcoin is used by ordinary people who want to save or speculate.
+- Terrorists also use cars, cell phones, and bank accounts.  Tools are only as good as the people who use them.  Bitcoin is not a special weapon that makes terrorists impossible to stop.
+- Hiding evidence on the blockchain is harder than hiding evidence by bribing a bank or exchanging art, gold, or banknotes.
